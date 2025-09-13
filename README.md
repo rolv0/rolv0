@@ -1,4 +1,4 @@
-# 👋 Hei, jeg er Rolv!
+# 👋 Hey
 
 🎯 Tech-vibing nybegynner med passion for struktur og systemer.  
 💡 Lærer meg SQL, databaser, Excel-automatisering og Git – ett prosjekt om gangen.  
