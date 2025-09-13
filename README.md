@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Hei, jeg er Rolv!
 
-<!--
-**rolv0/rolv0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Tech-vibing nybegynner med passion for struktur og systemer.  
+💡 Lærer meg SQL, databaser, Excel-automatisering og Git – ett prosjekt om gangen.  
+💪 Trening og mat = superkraftene ved siden av koding.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Teknologier og verktøy jeg bruker
+
+- 💾 **SQL** – spørringer, joins og databasedesign
+- 📊 **Excel** – funksjoner, pivottabeller og VBA
+- 🐙 **Git & GitHub** – versjonskontroll og samarbeid
+- 🧪 **Python** *(nylig startet)* – for data og analyse
+
+---
+
+## 🔭 Hva jeg jobber med nå
+
+- Bygger en enkel treningslogg i Excel + SQL
+- Lærer Git gjennom småprosjekter
+- Utforsker Python for databehandling
+
+---
+
+## 🎯 Mål for 2025
+
+- Lage 3 fullførte prosjekter med README og skjermbilder
+- Dele kode og tanker på GitHub jevnlig
+- Bidra til et lite open source-prosjekt
+- Lære meg Power BI eller Tableau
+
+---
+
+## 🤝 La oss koble
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rolv-kristian-listad-a0a9a810b)
+
+📍 Oslo, Norge  
+🎓 UNIL  
+🚀 Alltid klar for å lære mer!
