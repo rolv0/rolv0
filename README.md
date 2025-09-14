@@ -17,7 +17,6 @@
 
 ## 🔭 Hva jeg jobber med nå
 
-- Bygger en enkel treningslogg i Excel + SQL
 - Lærer Git gjennom småprosjekter
 - Utforsker Python for databehandling
 
