@@ -1,40 +1,7 @@
-# 👋 Hey
+# Rolv Kristian Listad
 
-🎯 Tech-vibing nybegynner med passion for struktur og systemer.  
-💡 Lærer meg SQL, databaser, Excel-automatisering og Git – ett prosjekt om gangen.  
-💪 Trening og mat = superkraftene ved siden av koding.
+Masterdata og systemforvaltning.
 
----
+Interesserer meg for SQL, datamodellering, regelstyrt forretningslogikk, integrasjoner og små Python-verktøy for analyse og automatisering.
 
-## 🛠️ Teknologier og verktøy jeg bruker
-
-- 💾 **SQL** – spørringer, joins og databasedesign
-- 📊 **Excel** – funksjoner, pivottabeller og VBA
-- 🐙 **Git & GitHub** – versjonskontroll og samarbeid
-- 🧪 **Python** *(nylig startet)* – for data og analyse
-
----
-
-## 🔭 Hva jeg jobber med nå
-
-- Lærer Git gjennom småprosjekter
-- Utforsker Python for databehandling
-
----
-
-## 🎯 Mål for 2025
-
-- Lage 3 fullførte prosjekter med README og skjermbilder
-- Dele kode og tanker på GitHub jevnlig
-- Bidra til et lite open source-prosjekt
-- Lære meg Power BI eller Tableau
-
----
-
-## 🤝 La oss koble
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/rolv-kristian-listad-a0a9a810b)
-
-📍 Oslo, Norge  
-🎓 UNIL  
-🚀 Alltid klar for å lære mer!
+Denne profilen brukes hovedsakelig til å samle praktiske prosjekter og eksperimenter.
